@@ -2,7 +2,7 @@
 
 ## Proje Tanıtımı
 
-Bu proje, bir e-ticaret şirketinin satış verilerini analiz etmek ve satış tahminlemeleri yapmak amacıyla geliştirilmiştir. Projede, veri analizi, özellik mühendisliği ve makine öğrenimi teknikleri kullanılarak, müşteri satın alma davranışları hakkında değerli bilgiler elde edilir.
+Bu proje, bir e-ticaret şirketinin satış verilerini analiz etmek ve satış tahminleri yapmak amacıyla geliştirilmiştir. Projede, veri analizi, özellik mühendisliği ve makine öğrenimi teknikleri kullanılarak, müşteri satın alma davranışları hakkında değerli bilgiler elde edilir.
 
 ## Kullanılan Çeşitli Kütüphaneler
 
